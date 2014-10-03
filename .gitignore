@@ -49,8 +49,7 @@ _ReSharper*/
 
 #NuGet
 
-Solution/packages/*
-Source/NetworkOnline/packages/*
+packages/*
 
 Ninja.Database/Ninja.Database.dbmdl
 Ninja.Database/Ninja.Database.dbproj.schemaview
@@ -58,14 +57,8 @@ OnCheckin.Website/logs/*
 OnCheckin.Website/logs
 
 *.dbmdl
-Source/NetworkOnline/packages/
-Source/NetworkOnline/UnitTests/Acp.Applications.NetworkOnline.UnitTests.dll.VisualState.xml
-#PsakeFreaker
-Source/NetworkOnline/_deploymentPackage*/
 
-Source/NetworkOnline/WebApplication.Cms/Scripts/app/*.js
-Source/NetworkOnline/WebApplication.Cms/Scripts/app/news/*.js
-Source/NetworkOnline/WebApplication.Cms/Scripts/app/common/*.js
-Source/NetworkOnline/WebApplication.Cms/Scripts/app/notes/*.js
+#PsakeFreaker
+
 *.map
-Source/NetworkOnline/WebApplication/Uploads/
+
